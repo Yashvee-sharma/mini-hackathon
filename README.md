@@ -14,9 +14,21 @@ This project is a menu-driven C program that records income and expenses, shows 
 
 ## 2. Team Details
 
-Names: Yashvee Sharma, Kushaj Sharma, Vedansh Swami
-Team: Array of Three
-Batch: 11/12
+## 2. Team Details
+
+| Field | Details |
+|---|---|
+| Team Name | Array of Three |
+| Batch | 11/12 |
+| Course / Program | Btech CSE |
+
+
+| # | Member Name | Roll No. / Enrollment No. | Role |
+|---|---|---|---|
+| 1 | Yashvee Sharma | 590032014 |
+| 2 | Kushaj Sharma | 590034159 | 
+| 3 | Vedansh Swami | 590032849 |
+
 ---
 
 ## 3. Objectives and Features
